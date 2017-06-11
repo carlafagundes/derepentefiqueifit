@@ -34,6 +34,7 @@
   text-transform: lowercase;
   color: #aaa !important;
   padding-top: 15px;
+  margin-left: 14px;
 }
 
 .social a:after{
@@ -47,4 +48,8 @@
 
 .social a:last-child:after{
   content: "" !important;
+}
+
+.pesquisa{
+  margin-top: 15px !important;
 }
