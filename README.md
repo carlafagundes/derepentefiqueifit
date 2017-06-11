@@ -1,2 +1,2 @@
 # derepentefiqueifit
-De Repente Fiquei Fit
+Repositório com artefatos do projeto De Repente Fiquei Fit.
