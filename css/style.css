@@ -1,0 +1,50 @@
+.topo{
+  background-color: #fbfbfb;
+}
+
+.navlist a{
+  position: relative;
+  display: inline-block !important;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px !important;
+  text-transform: lowercase;
+  color: #aaa !important;
+  padding-top: 15px !important;
+  margin-left: 12px !important;
+}
+
+.navlist a:after{
+  content: "|" !important;
+  padding-left: 10px;
+  color: #aaa;
+  clear: both;
+  visibility: visible !important;
+  display: initial !important;
+}
+
+.navlist a:last-child:after{
+  content: "" !important;
+}
+
+.social a{
+  position: relative;
+  display: inline-block !important;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px !important;
+  text-transform: lowercase;
+  color: #aaa !important;
+  padding-top: 15px;
+}
+
+.social a:after{
+  content: " " !important;
+  padding-left: 10px;
+  color: #aaa;
+  clear: both;
+  visibility: visible !important;
+  display: initial !important;
+}
+
+.social a:last-child:after{
+  content: "" !important;
+}
